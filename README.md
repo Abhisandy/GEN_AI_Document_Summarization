@@ -1,11 +1,11 @@
 # GEN_AI_Document_Summarization
 
-This repo is for creating Summary from any PDF file.
+This repo is for creating a Summary of any PDF file using Large language model
 Here, we used LangChain for Data Ingestion and Pre-processing
 
-We used model called "LaMini-Flan-T5-248M" from HuggingFace(Download files of model from hugging face).
+We used a model called "LaMini-Flan-T5-248M" from HuggingFace(Download files of the model from Hugging Face).
 
-We created an Streamlit app for showing a demo.
+We created a Streamlit app for showing a demo.
 
 Below are some screenshots of our demo.
 
